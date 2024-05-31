@@ -176,6 +176,7 @@ set(eoserv_ALL_HANDLER_FILES
 	src/handlers/Players.cpp
 	src/handlers/Priest.cpp
 	src/handlers/Quest.cpp
+    src/handlers/Range.cpp
 	src/handlers/Refresh.cpp
 	src/handlers/Shop.cpp
 	src/handlers/Sit.cpp

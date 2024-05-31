@@ -34,6 +34,7 @@
 #include "../src/handlers/Players.cpp"
 #include "../src/handlers/Priest.cpp"
 #include "../src/handlers/Quest.cpp"
+#include "../src/handlers/Range.cpp"
 #include "../src/handlers/Refresh.cpp"
 #include "../src/handlers/Shop.cpp"
 #include "../src/handlers/Sit.cpp"
